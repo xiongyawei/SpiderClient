@@ -17,7 +17,7 @@ namespace SpiderClient
         /// </summary>
         /// <param name="url"></param>
         /// <returns></returns>
-        public static string GetPageHtml(string url)
+        public static string GetPageHtml(string url,Action<string> FunSignLog)
         {
             try
             {
@@ -32,6 +32,7 @@ namespace SpiderClient
             }
             catch (Exception ex)
             {
+                FunSignLog(ex.Message);
                 return null;
             }
         }

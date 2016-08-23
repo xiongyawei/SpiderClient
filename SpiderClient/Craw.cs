@@ -43,7 +43,7 @@ namespace SpiderClient
                 }
                 FunSignLog(string.Format("打开网址：{0}", url));
 
-                string html = HttpHelper.GetPageHtml(url);
+                string html = HttpHelper.GetPageHtml(url,this.FunSignLog);
                 if (string.IsNullOrEmpty(html))
                 {
                     return;
