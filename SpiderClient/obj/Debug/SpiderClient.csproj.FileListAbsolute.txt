@@ -1,0 +1,9 @@
+E:\test\SpiderClient\SpiderClient\bin\Debug\SpiderClient.exe.config
+E:\test\SpiderClient\SpiderClient\bin\Debug\SpiderClient.exe
+E:\test\SpiderClient\SpiderClient\bin\Debug\SpiderClient.pdb
+E:\test\SpiderClient\SpiderClient\obj\Debug\SpiderClient.Form1.resources
+E:\test\SpiderClient\SpiderClient\obj\Debug\SpiderClient.Properties.Resources.resources
+E:\test\SpiderClient\SpiderClient\obj\Debug\SpiderClient.csproj.GenerateResource.Cache
+E:\test\SpiderClient\SpiderClient\obj\Debug\SpiderClient.exe
+E:\test\SpiderClient\SpiderClient\obj\Debug\SpiderClient.pdb
+E:\test\SpiderClient\SpiderClient\obj\Debug\SpiderClient.csprojResolveAssemblyReference.cache
